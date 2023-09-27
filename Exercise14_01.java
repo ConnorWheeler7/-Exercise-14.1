@@ -5,10 +5,7 @@ import javafx.scene.image.*;
 import javafx.scene.layout.*;
 import javafx.stage.*;
 
-/**
- * 14.1 (Display images) Write a program that displays four images in a grid pane, as
- * shown in Figure 14.43a.
- */
+
 public class Exercise14_01 extends Application {
     public static void main(String[] args) {
         launch(args);
